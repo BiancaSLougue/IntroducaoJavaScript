@@ -1,0 +1,58 @@
+27/03/2024
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures 
+
+array
+const a=[23,67,25]
+a posição começa em 0 
+
+a.push()
+adiciona um número ao final do array
+a.shift 
+remove o primeiro elemento
+unshift 
+adiciona na primeira posição
+
+NaN é sigla de not a number
+Ctrl+D muda a ultima execução da coisa, tipo substituir
+
+a função é entre ()
+oq ele vai executar é em {}
+ctrl+C trava a execução
+
+robert martin - arquitetura limpa
+
+i++ é o mesmo que i+1
+
+A3 28/03/2024
+
+Os objetos não tem valor, eles tem referencia
+% é o resto de uma divisão
+|| indica "ou"
+== compara se uma coisa é igual a outra, 
+=== faz uma comparação em tipo 
+= define o valor
+!! negação da negação, transforma o meu valor em boleano, ou seja 0 é falso e qqr outra coisa é true
+
+parseInt, converte em número, só inteiros
+parseFloat, converte em número, quebrados tbm
+
+canal gustavo guanabara - curso e video ou curso em video
+free code camp
+w3studios
+
+A4 01/04/2024
+
+função de callback
+
+desestruturação de parÂmetros pode ser escrita de duas formas: com ...
+
+npm init
+
+npm i inquirer (i de instalar)
+
+se usa a contrabarra pra indicar o caracter mesmo (ex:\") ou uma quebra de linha (ex:\n)
+
+alt+shift+F formata o código pra mim
+
+for usa para arrays ou strings, while usa pra executar um código enquanto for verdadeiro
